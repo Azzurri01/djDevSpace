@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Dimitri Johannes DevSpace</string>
+    <string name="myDevProfile">
+                                My name is Dimitri Johannes and I see myself as a hardworking individual with development dreams.\n\n
+
+                                My hobbies include football, cricket, software development and socializing on my free days. \n\n
+
+                                I currently employed as a disaster recovery specialist and hold a diploma from
+                                Cape Peninsula University of Technology in application development.\n\n
+
+                                Some of my certifications include backup and storage related software as well as ITIL.  I am well versed
+                                in development languages like SQL, Java, Python and Andriod Studio.\n\n
+
+                                My short term goal is to become a full time developer using real world objects so that
+                                I can start addressing my long term goals to possibly come up with solutions to do my part in
+                                addressing some of the issues we are currently faced with. \n\n
+
+                                New technologies is on the rise and we are in an era where anything is possible if you apply
+                                your mind to it. We can achieve great things if we work towards a common goal together.\n\n
+
+                                Change is coming and I cannot wait to do my part to use technology to unlock
+                                the potential many of us deserve.\n
+    </string>
+    <string name="myProfTextView"><u>My Profile</u></string>
+
+
+    <string name="DimitriJohannesStudent">
+        <a href="https://www.cput.ac.za/">Dimitri Johannes</a>
+    </string>
+
+    <string name="DimitriJohannesLinkedIn">
+        <a href="https://www.linkedin.com/in/dimitri-johannes-68a0b6b3/">Dimitri Johannes</a>
+    </string>
+
+    <string name="DimitriJohannesTwitter">
+        <a href="https://twitter.com/dimitrijohannes?s=08">@DimitriJohannes</a>
+    </string>
+
+    <string name="DimitriJohannesEmail">
+        <a href="mailto:dimitri.johannes@gmail.com">dimitri.johannes@gmail.com</a>
+    </string>
+
+</resources>
